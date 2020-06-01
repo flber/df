@@ -47695,3 +47695,135 @@ Resuming production: steel breastplate
 Cerol Dumatginet, Ranger has transformed into a weregila monster!
 Resuming production: drink
 Cerol Dumatginet, Weregila Monster Ranger has transformed into a dwarf!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region1, Ashixah (The Wondrous Dimensions) at coordinates (47,50)
+Loaded the fortress Kogannâlas (Boatflickers), colonized by the group Kitungilral (The Sepia Treaties) of the civilization N¢tonuvash (The Born Arena).
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region1, Ashixah (The Wondrous Dimensions) at coordinates (47,50)
+Loaded the fortress Kogannâlas (Boatflickers), colonized by the group Kitungilral (The Sepia Treaties) of the civilization N¢tonuvash (The Born Arena).
+Cannot produce: iron pick
+Stock level is low: adamantine bars
+Resuming production: adamantine bars
+Stock level is low: roast
+Cannot produce: roast
+Stock level is low: steel breastplate
+Stock level is low: steel war hammer
+Cannot produce: steel war hammer
+Cannot produce: tin bars
+Stock level is low: wood bin
+Cannot produce: wood bin
+Stock level is low: iron war hammer
+Cannot produce: iron war hammer
+Stock level is low: iron breastplate
+Cannot produce: iron breastplate
+Stock level is low: iron leggings
+Cannot produce: iron leggings
+Stock level is low: iron helm
+Cannot produce: iron helm
+Stock level is low: iron gauntlet
+Cannot produce: iron gauntlet
+Stock level is low: iron shield
+Cannot produce: iron shield
+Stock level is low: iron low boot
+Cannot produce: iron low boot
+Stock level is low: iron mail shirt
+Cannot produce: iron mail shirt
+Bomrek Logemgamil has become a Miner.
+You have struck morion!
+Id Letmosish has become a Miner.
+Edzul ärithnekut has become a Miner.
+An animal has grown to become a Stray Dog.
+x2
+Momuz ¢smafol, militia captain cancels Forge steel breastplate: Needs 3 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel shield: Needs 1 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel mail shirt: Needs 2 steel bars.
+You have struck sard!
+Resuming production: steel mail shirt
+Resuming production: steel shield
+Resuming production: steel breastplate
+At°r Kivishtost has grown to become a Dwarven Child.
+Kel Adilkegeth has grown to become a Dwarven Child.
+Zaneg Saziratàk, Clerk cancels Collect Sand: Need empty bag.
+Udil Nålesendok, Peasant cancels Collect Sand: Need empty bag.
+Goden OlinkÑl†n has grown to become a Dwarven Child.
+Ustuth Dakostzes has become a Miner.
+Momuz ¢smafol, militia captain cancels Forge steel helm: Needs 1 steel bars.
+Resuming production: steel helm
+Momuz ¢smafol, militia captain cancels Forge steel leggings: Needs 1 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel breastplate: Needs 3 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel shield: Needs 1 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel mail shirt: Needs 2 steel bars.
+Resuming production: steel mail shirt
+Resuming production: steel shield
+Resuming production: steel leggings
+Resuming production: steel breastplate
+The flying ({iron bolt}) strikes the emu in the left wing, chipping the bone!
+A tendon has been torn!
+The emu stands up.
+The flying ({iron bolt}) strikes the emu in the lower body, tearing the muscle and tearing the stomach!
+An artery has been opened by the attack!
+The flying ({iron bolt}) strikes the emu in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The force twists the neck, tearing apart the skin and bruising the fat!
+Zon Niroltar has become a Planter.
+Avuz Nilmomuz has grown to become a Dwarven Child.
+Stray Llama (Tame) has given birth to a baby llama.
+Cannot produce: gold statue
+The weather has cleared.
+Bomrek Cattenzalçs, Brewer cancels Forge steel breastplate: Needs 3 steel bars.
+Bomrek Cattenzalçs, Brewer cancels Forge steel shield: Needs 1 steel bars.
+Bomrek Cattenzalçs, Brewer cancels Forge steel mail shirt: Needs 2 steel bars.
+Bomrek Cattenzalçs, Brewer cancels Forge steel helm: Needs 1 steel bars.
+Resuming production: steel mail shirt
+Resuming production: steel shield
+Resuming production: steel helm
+Resuming production: steel breastplate
+Bomrek Cattenzalçs, Brewer cancels Forge steel leggings: Needs 1 steel bars.
+Resuming production: steel leggings
+Ustuth Dakostzes, Miner cancels Forge steel breastplate: Needs 3 steel bars.
+Resuming production: steel breastplate
+Cerol Dumatginet, Ranger has transformed into a weregila monster!
+It has started raining.
+Urvad AlÜthbim, Bard has been possessed!
+Ustuth Dakostzes, Miner cancels Forge steel shield: Needs 1 steel bars.
+Resuming production: steel shield
+Ustuth Dakostzes, Miner cancels Forge steel mail shirt: Needs 2 steel bars.
+Ustuth Dakostzes, Miner cancels Forge steel helm: Needs 1 steel bars.
+Cerol Dumatginet, Weregila Monster Ranger has transformed into a dwarf!
+Resuming production: steel mail shirt
+Resuming production: steel helm
+Catten Adiltathur, Stray Kitten (Tame) has adopted Kñbuk Kñbukamith, mayor.
+Urvad AlÜthbim has claimed a Craftsdwarf's Workshop.
+Rakust ésdåshmab, Miner cancels Forge steel leggings: Needs 1 steel bars.
+Resuming production: steel leggings
+Momuz ¢smafol, militia captain cancels Forge steel breastplate: Needs 3 steel bars.
+Momuz ¢smafol, militia captain cancels Forge steel shield: Needs 1 steel bars.
+Rakust ésdåshmab, Miner cancels Forge steel mail shirt: Needs 2 steel bars.
+Rakust ésdåshmab, Miner cancels Forge steel helm: Needs 1 steel bars.
+Resuming production: steel mail shirt
+Resuming production: steel shield
+Resuming production: steel helm
+Resuming production: steel breastplate
+Rakust ésdåshmab, Miner cancels Forge steel leggings: Needs 1 steel bars.
+Resuming production: steel leggings
+It is now summer.
+A vile force of darkness has arrived!
+Stock level is low: adamantine bars
+Stock level is low: roast
+Stock level is low: steel breastplate
+Stock level is low: steel war hammer
+Stock level is low: wood bin
+Stock level is low: iron war hammer
+Stock level is low: iron breastplate
+Stock level is low: iron leggings
+Stock level is low: iron helm
+Stock level is low: iron gauntlet
+Stock level is low: iron shield
+Stock level is low: iron low boot
+Stock level is low: iron mail shirt
