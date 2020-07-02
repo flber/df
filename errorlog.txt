@@ -4925,3 +4925,1719 @@ loop path fail: <same square> cat,45,58,185 -> 44,55,185: Id #13196:Path Goal Se
 loop path fail: <same square> cat,32,56,185 -> 32,54,185: Id #13266:Path Goal Seek Station:Station Owner at 31,55,185
 loop path fail: <same square> cat,32,61,185 -> 53,66,185: Id #13267:Path Goal Seek Station:Station Vermin Hunting at 55,68,185
 Receive job pay: NULL JOB
+path fail: dwarf,Make pig iron bars,75,72,180 -> 74,106,10: Id #5873:Path Goal Grab Job Resources:Station Meeting Location at 22,51,184
+path fail: dwarf,Give Water,34,68,185 -> 72,99,11: Id #7182:Path Goal Seek Give Water Bucket:Station Mill Building at 31,58,185
+path fail: dwarf,Smelt magnetite Ore,69,70,182 -> 74,106,10: Id #2099:Path Goal Work at Building:Station Mill Building at 31,60,185
+path fail: dwarf,Make pig iron bars,68,69,180 -> 74,106,10: Id #5873:Path Goal Grab Job Resources:Station Meeting Location at 22,51,184
+path fail: dwarf,Make steel bars,75,96,60 -> 74,106,10: Id #12589:Path Goal Grab Job Resources:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make steel bars,75,96,60 -> 74,106,10: Id #12589:Path Goal Grab Job Resources:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make pig iron bars,64,69,184 -> 74,106,10: Id #5873:Path Goal Grab Job Resources:Station Meeting Location at 22,51,184
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Smelt magnetite Ore,63,68,185 -> 74,106,10: Id #2099:Path Goal Work at Building:Station Mill Building at 31,60,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make steel bars,75,96,60 -> 74,106,10: Id #12589:Path Goal Grab Job Resources:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Give Water,33,67,185 -> 72,99,11: Id #7182:Path Goal Seek Give Water Bucket:Station Mill Building at 31,58,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make pig iron bars,61,71,185 -> 74,106,10: Id #2099:Path Goal Grab Job Resources:Station Mill Building at 31,60,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,60 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make steel bars,75,96,59 -> 74,106,10: Id #12589:Path Goal Grab Job Resources:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make pig iron bars,51,71,185 -> 74,106,10: Id #2099:Path Goal Grab Job Resources:Station Mill Building at 31,60,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,75,96,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make steel bars,76,97,59 -> 74,106,10: Id #12589:Path Goal Grab Job Resources:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Make pig iron bars,41,71,185 -> 74,106,10: Id #2099:Path Goal Grab Job Resources:Station Mill Building at 31,60,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 31,62,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 32,64,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 32,64,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Extract Metal Strands,75,96,109 -> 68,91,11: Id #12585:Path Goal Work at Building:Station Mill Building at 43,67,184
+path fail: dwarf,79,101,10 -> 32,63,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 31,63,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 30,63,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 32,64,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 32,62,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,79,101,10 -> 32,62,185: Id #5370:Path Goal Seek Station:Station Mill Building at 31,63,185
+path fail: dwarf,Pickup Equipment,76,97,59 -> 75,96,15: Id #12589:Path Goal Grab Uniform:Station Milling Burrow at 46,67,185
+path fail: dwarf,Construct Building,57,71,181 -> 83,106,11: Id #4594:Path Goal Main Job Building:Station Mill Building at 33,67,185
+loop path fail: <same square> cat,51,64,185 -> 47,79,184: Id #13965:Path Goal Seek Station:Station Owner at 46,78,184
+path fail: dwarf,75,96,10 -> 73,84,22: Id #5873:Path Goal Flee Terrain:Station Meeting Location at 20,49,184
+path fail: dwarf,75,96,10 -> 73,84,22: Id #8169:Path Goal Flee Terrain:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,75,97,10 -> 40,57,185: Id #5873:Path Goal Start Eat Job:Station Meeting Location at 20,49,184
+path fail: cat,75,82,176 -> 77,95,12: Id #14018:Path Goal Seek Station:Station Owner at 76,96,12
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: cat,75,82,176 -> 77,97,12: Id #14018:Path Goal Seek Station:Station Owner at 76,96,12
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,83,57,179 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 47,62,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,60,179 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,61,179 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,67,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,67,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,67,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 56,70,181
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,81,70,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 31,60,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: cat,75,82,177 -> 76,96,11: Id #14018:Path Goal Seek Station:Station Owner at 75,96,11
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: cat,75,82,177 -> 73,98,11: Id #14018:Path Goal Seek Station:Station Owner at 75,96,11
+path fail: dwarf,Drink,75,96,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Eat,75,97,10 -> 40,57,185: Id #5873:Path Goal Start Eat Job:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,73,71,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 58,67,181
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,71,71,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 58,67,181
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,71,71,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 58,67,181
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Store Owned Item,69,69,180 -> 72,99,11: Id #2228:Path Goal Seek Item for Storage:Station Mill Building at 58,67,181
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: cat,75,82,177 -> 76,98,11: Id #14018:Path Goal Seek Station:Station Owner at 75,96,11
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+path fail: cat,75,82,177 -> 74,95,11: Id #14018:Path Goal Seek Station:Station Owner at 75,96,11
+path fail: dwarf,Drink,76,97,10 -> 46,59,185: Id #8169:Path Goal Grab Goblet:Station Mill Building at 31,58,185
+path fail: dwarf,Drink,75,96,11 -> 46,59,185: Id #1777:Path Goal Grab Goblet:Station Mill Building at 32,59,185
+path fail: dwarf,Eat,82,101,10 -> 40,57,185: Id #5339:Path Goal Start Eat Job:Station Mill Building at 31,57,185
+path fail: dwarf,Sleep,75,97,10 -> 39,67,184: Id #5873:Path Goal Sleep Bed:Station Meeting Location at 20,49,184
+loop path fail: <same square> cat,45,58,185 -> 41,56,185: Id #12594:Path Goal Seek Station:Station Mill Building at 32,65,185
+Site Map:  Extra Item Occupancy 66,77,11
+loop path fail: <same square> human,Eat,45,68,185 -> 47,68,185: Id #2928:Path Goal Seek Eating Chair 2:Station Mill Building at 31,64,185
+path fail: goblin,17,111,134 -> 17,112,134: Id #20087:Path Goal Seek Station Flood:Station None at 17,112,134
+path fail: <invalid goal> goblin,62,78,136 -> -43,5,128: Id #22023:Path Goal Seek Station:Station Mill Anywhere at -42,4,128
+path fail: <invalid goal> beak dog,19,84,123 -> -35,23,127: Id #23081:Path Goal Seek Station:Station Mill Anywhere at -33,22,127
+path fail: <invalid goal> goblin,0,125,131 -> -39,118,130: Id #23529:Path Goal Seek Station:Station Mill Anywhere at -40,116,130
+loop path fail: <invalid goal> goblin,1,63,126 -> 10,123,125: Id #23954:Path Goal Seek Station:Station Mill Building at 10,123,125
+path fail: <invalid goal> beak dog,100,131,122 -> 182,186,126: Id #26451:Path Goal Seek Station:Station Mill Anywhere at 179,186,126
+path fail: <invalid goal> goblin,112,10,129 -> 191,86,129: Id #3594:Path Goal Army Walk:Station None at 104,9,128
+path fail: <invalid goal> goblin,112,9,129 -> 191,83,129: Id #403:Path Goal Army Walk:Station None at 97,1,128
+path fail: blood man,135,120,14 -> 141,137,16: Id #36817:Path Goal Flee Terrain:Station None at 135,120,15
+path fail: blood man,134,122,14 -> 143,135,16: Id #36816:Path Goal Flee Terrain:Station None at 134,122,15
+*** Error(s) found in the file "raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+FOREST trying to generate musical form without speech or instruments
+FOREST trying to generate musical form without speech or instruments
+FOREST trying to generate musical form without speech or instruments
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw anchovy,  [2]
+path fail: dwarf,Dig,133,43,119 -> 133,42,118: Id #11056:Path Goal Dig:Station None at 133,43,119
+path fail: dwarf,Sleep,133,43,111 -> 133,44,110: Id #11056:Path Goal Sleep Ground:Station None at 133,43,119
+path fail: dwarf,Dig,133,43,25 -> 133,44,24: Id #11052:Path Goal Dig:Station None at 132,41,27
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+path fail: dwarf,Dig,133,43,95 -> 133,44,94: Id #4959:Path Goal Dig:Station None at 133,43,95
+path fail: dwarf,Dig,133,43,75 -> 133,42,74: Id #4959:Path Goal Dig:Station None at 133,43,75
+path fail: dwarf,Dig,133,43,43 -> 133,44,42: Id #4959:Path Goal Dig:Station None at 133,43,43
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+path fail: cat,66,57,175 -> 70,55,174: Id #11528:Path Goal Seek Station:Station None at 65,58,175
+path fail: dwarf,63,54,174 -> 86,38,172: Id #11518:Path Goal Flee Terrain:Station Wagon at 50,73,176
+path fail: yak bull,51,75,176 -> 50,76,176: Id #11529:Path Goal Seek Station:Station Wagon at 50,75,176
+path fail: dwarf,Construct Building,46,102,177 -> 42,104,176: Id #11520:Path Goal Drop Off Job Items:Station Wagon at 50,76,176
+path fail: cat,51,77,176 -> 53,75,176: Id #11527:Path Goal Seek Station:Station Vermin Hunting at 52,75,176
+path fail: dwarf,Construct Building,46,102,177 -> 43,104,176: Id #11522:Path Goal Drop Off Job Items:Station Wagon at 54,76,176
+path fail: dwarf,Construct Building,46,102,177 -> 41,105,176: Id #11521:Path Goal Drop Off Job Items:Station Wagon at 55,77,176
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+path fail: dwarf,71,75,176 -> 70,75,176: Id #11613:Path Goal Seek Station:Station Wagon at 71,75,176
+path fail: cave fish man,105,102,35 -> 106,98,35: Id #11605:Path Goal Seek Station:Station None at 102,105,35
+path fail: dwarf,Construct Building,47,102,176 -> 75,100,176: Id #11617:Path Goal Main Job Building:Station Milling Flood at 58,98,176
+path fail: dwarf,Construct Building,73,102,176 -> 75,102,176: Id #11614:Path Goal Main Job Building:Station Milling Flood at 59,93,176
+path fail: dog,36,34,172 -> 21,51,173: Id #11620:Path Goal Flee Terrain:Station None at 41,33,171
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR

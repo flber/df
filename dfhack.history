@@ -1,4 +1,31 @@
 die
+reveal
+lair
+unreveal
+reveal
+unreveal
+reveal
+locate-ore list
+die
+multilevel 1
+exportlegends all
+exportlegends
+ls
+export-legends
+multilevel 0
+multilevel
+multilevel 1
+gui/create-item
+createitem HELM:ITEM_HELM_HELM ADAMANTINE EXCEPTIONAL
+createitem HELM:ITEM_HELM_HELM ADAMANTINE
+ls
+list
+multilevel 1
+lair
+liar
+unreveal
+reveal
+die
 multilevel 1
 multilevel 2
 unreveal

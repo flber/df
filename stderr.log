@@ -159,7 +159,8 @@ loaded plugin prospector; DFHack build 0.47.04-r1-0-g6bdbf5b0
 loading plugin regrass
 loaded plugin regrass; DFHack build 0.47.04-r1-0-g6bdbf5b0
 loading plugin RemoteFortressReader
-loaded plugin RemoteFortressReader; DFHack build 0.47.04-r1-0-g6bdbf5b0
+Warning: Plugin RemoteFortressReader compiled for DFHack 0.47.04-r1-36-gad373542, running DFHack 0.47.04-r1-0-g6bdbf5b0
+loaded plugin RemoteFortressReader; DFHack build 0.47.04-r1-36-gad373542
 loading plugin rename
 loaded plugin rename; DFHack build 0.47.04-r1-0-g6bdbf5b0
 loading plugin rendermax
@@ -354,71 +355,5 @@ Invoking: enable gui/extended-status
 Invoking: view-item-info enable
 Invoking: gui/load-screen enable
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init-example
-UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffe9126ff08
-Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
-Invoking: warn-starving
-UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x7ffec6f9ffd0
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: warn-starving
-Invoking: warn-starving
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: warn-starving
-Forgetting job 33958 (MintCoins): holder building lost.
-Forgetting job 31721 (ConstructBlocks): holder building lost.
-Forgetting job 31720 (ConstructBlocks): holder building lost.
-Forgetting job 31719 (ConstructBlocks): holder building lost.
-Forgetting job 31718 (ConstructBlocks): holder building lost.
-Forgetting job 31717 (CollectSand): holder building lost.
-Forgetting job 31716 (CollectSand): holder building lost.
-Forgetting job 31715 (CollectSand): holder building lost.
-Forgetting job 31714 (CollectSand): holder building lost.
-Forgetting job 25418 (SmeltOre): holder building lost.
-Forgetting job 24554 (ConstructBlocks): holder building lost.
-Forgetting job 24553 (ConstructBlocks): holder building lost.
-Forgetting job 24552 (ConstructBlocks): holder building lost.
-Forgetting job 22286 (ConstructMechanisms): holder building lost.
-Forgetting job 21678 (CustomReaction): holder building lost.
-Forgetting job 21215 (ConstructSlab): holder building lost.
-Forgetting job 20646 (ConstructChest): holder building lost.
-Forgetting job 20645 (ConstructArmorStand): holder building lost.
-Forgetting job 20644 (ConstructWeaponRack): holder building lost.
-Forgetting job 20641 (ConstructCabinet): holder building lost.
-Forgetting job 18189 (ConstructStatue): holder building lost.
-Forgetting job 17200 (ConstructCoffin): holder building lost.
-Forgetting job 16944 (ExtractMetalStrands): holder building lost.
-Forgetting job 15189 (ConstructThrone): holder building lost.
-Forgetting job 15188 (ConstructDoor): holder building lost.
-Forgetting job 15187 (MakeTool): holder building lost.
-Forgetting job 15186 (MakeBarrel): holder building lost.
-Forgetting job 15185 (ConstructBed): holder building lost.
-Forgetting job 15168 (ExtractMetalStrands): holder building lost.
-Forgetting job 14549 (MakeShield): holder building lost.
-Forgetting job 14548 (MakeShoes): holder building lost.
-Forgetting job 14547 (MakeGloves): holder building lost.
-Forgetting job 14546 (MakeHelm): holder building lost.
-Forgetting job 14544 (MakePants): holder building lost.
-Forgetting job 14543 (MakeArmor): holder building lost.
-Forgetting job 14542 (MakeArmor): holder building lost.
-Forgetting job 14508 (MakeGoblet): holder building lost.
-Forgetting job 14398 (CustomReaction): holder building lost.
-Forgetting job 14265 (CustomReaction): holder building lost.
-Forgetting job 14181 (MakeTool): holder building lost.
-Forgetting job 13947 (SmeltOre): holder building lost.
-Forgetting job 13946 (CustomReaction): holder building lost.
-Forgetting job 9905 (PrepareMeal): holder building lost.
-Forgetting job 8389 (CustomReaction): holder building lost.
 Console is shutting down properly.
 Plugin twbt has failed to shutdown!
