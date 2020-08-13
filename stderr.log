@@ -346,14 +346,3 @@ Enabled tweak tradereq-pet-gender (pet_gender_hook::render)
 Invoking: enable title-version
 Invoking: enable manipulator
 Invoking: enable search
-Invoking: enable automaterial
-Invoking: enable  confirm  dwarfmonitor  mousequery  autogems  autodump  automelt  autotrade  buildingplan  resume  trackstop  zone  stocks  autochop  stockpiles
-Invoking: embark-tools enable sticky sand mouse
-Invoking: enable embark-assistant
-Invoking: modtools/extra-gamelog enable
-Invoking: enable gui/extended-status
-Invoking: view-item-info enable
-Invoking: gui/load-screen enable
-Invoking: sc-script add SC_WORLD_LOADED onLoad.init-example
-Console is shutting down properly.
-Plugin twbt has failed to shutdown!

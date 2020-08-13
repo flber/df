@@ -6641,3 +6641,50 @@ CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
 ALDER:Unrecognized Plant Token: AUTUMNCOLOR
 BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
 ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (bitter orange wood bucket)
+path fail: dwarf,Dig Channel,72,72,129 -> 71,74,127: Id #11667:Path Goal Dig:Station Wagon at 95,98,129
+*** Error(s) found in the file "data/save/region3/raw/objects/plant_standard.txt"
+BUSH_QUARRY:Unrecognized Plant Token: LEAVES
+OAK:Unrecognized Plant Token: AUTUMNCOLOR
+MAPLE:Unrecognized Plant Token: AUTUMNCOLOR
+LARCH:Unrecognized Plant Token: AUTUMNCOLOR
+CHESTNUT:Unrecognized Plant Token: AUTUMNCOLOR
+ALDER:Unrecognized Plant Token: AUTUMNCOLOR
+BIRCH:Unrecognized Plant Token: AUTUMNCOLOR
+ASH:Unrecognized Plant Token: AUTUMNCOLOR
