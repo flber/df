@@ -1,6 +1,6 @@
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
-[AUTOSAVE:NONE]
+[AUTOSAVE:YEARLY]
 [AUTOBACKUP:NO]
 [AUTOSAVE_PAUSE:NO]
 
@@ -122,11 +122,11 @@ You can have your dwarves start/arrive without any labor types enabled here by s
 
 You can set the maximum population of your fortress here.  Keep in mind that your population must be at least 80 to get a king and 100 to obtain the current game features.
 
-[POPULATION_CAP:200]
+[POPULATION_CAP:13]
 
 This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
 
-[BABY_CHILD_CAP:100:1000]
+[BABY_CHILD_CAP:15:1000]
 
 If you don't like the ,.`' ground, try setting this to NO.  The ground will turn into periods only.
 
@@ -134,7 +134,7 @@ If you don't like the ,.`' ground, try setting this to NO.  The ground will turn
 
 If you'd like your engravings to start off looking the same (you can toggle them on individual later), set this to YES.
 
-[ENGRAVINGS_START_OBSCURED:NO]
+[ENGRAVINGS_START_OBSCURED:YES]
 
 If you get annoyed by seeing items like *<*sword*>* you can
 get rid of the outside ** by setting this to NO.
@@ -143,7 +143,7 @@ get rid of the outside ** by setting this to NO.
 
 Set this to YES to display fluids as numbers indicating depth.
 
-[SHOW_FLOW_AMOUNTS:NO]
+[SHOW_FLOW_AMOUNTS:YES]
 
 If you'd prefer to leave the history behind every engraving for your adventurers to discover, then set this to NO.
 
@@ -151,8 +151,8 @@ If you'd prefer to leave the history behind every engraving for your adventurers
 
 This controls "more" in adventure mode.  If MORE is set to NO, all announcements will be skipped.  DISPLAY_LENGTH controls how many lines are printed before it gives you the "more" prompt.
 
-[MORE:YES]
-[DISPLAY_LENGTH:23]
+[MORE:NO]
+[DISPLAY_LENGTH:32]
 
 Set this to NO if you do not want traps to affect you in adventure mode.  Cage traps are always disabled for now.
 
